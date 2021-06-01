@@ -1,6 +1,6 @@
 Hello Git! 22222
 Hello Git! 33333
-Hello Git!
+Hello Git! hot-fix
 Hello Git!
 Hello Git!
 Hello Git!
